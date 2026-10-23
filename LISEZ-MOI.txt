@@ -1,0 +1,5 @@
+LA VOIX D’ALGÉRIE — ASM TECHNOLOGIES
+
+Consulter README.md pour publier sur GitHub Pages et ajouter le raccourci Safari.
+index.html doit être à la racine du dépôt GitHub. Les icônes sont déjà configurées.
+La carte transparente se trouve dans icons/algerie-transparent.png.
